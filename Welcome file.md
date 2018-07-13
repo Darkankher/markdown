@@ -40,17 +40,17 @@
 </ul>
 <blockquote>
 <p>WSSoap:</p>
-</blockquote>
 <ul>
 <li><em>link do wsdl aqui</em></li>
 </ul>
+</blockquote>
 <blockquote>
 <p>WSRest:</p>
-</blockquote>
 <ul>
 <li><em>link do wsdl aqui</em></li>
 <li><em>Parâmetros necessários aqui</em></li>
 </ul>
+</blockquote>
 
     </div>
   </div>
