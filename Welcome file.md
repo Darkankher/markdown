@@ -26,8 +26,12 @@
     <div class="stackedit__html">
       <h3 id="informações-sobre-a-utilização-da-aplicação">Informações sobre a utilização da aplicação</h3>
 <ul>
-<li><strong>Acessar URL aplicação.</strong></li>
-<li><strong>Usuário e senha para ambientes de desenvolvimento/testes, solicitar com gerente <em>fulano</em>  :</strong></li>
+<li>
+<p><strong>Acessar URL aplicação.</strong></p>
+</li>
+<li>
+<p><strong>Usuário e senha para ambientes de desenvolvimento/testes, solicitar com gerente <em>fulano</em>  :</strong></p>
+</li>
 </ul>
 <blockquote>
 <ul>
