@@ -30,10 +30,14 @@
 <li><strong>Usuário e senha para ambientes de desenvolvimento/testes, solicitar com gerente <em>fulano</em>  :</strong></li>
 </ul>
 <blockquote>
-<p>Ramal:</p>
+<ul>
+<li>Ramal:</li>
+</ul>
 </blockquote>
 <blockquote>
-<p>Email:</p>
+<ul>
+<li>Email:</li>
+</ul>
 </blockquote>
 <ul>
 <li><strong>Caso WS, como utilizar o serviço:</strong></li>
