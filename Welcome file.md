@@ -24,32 +24,32 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <hr>
-<hr>
-<h3 id="informações-do-projeto">Informações do Projeto</h3>
-<p><strong>Linguagem e versão  :</strong></p>
+      <h3 id="informações-sobre-a-utilização-da-aplicação">Informações sobre a utilização da aplicação</h3>
 <ul>
-<li>Php 7.2</li>
+<li><strong>Acessar URL aplicação.</strong></li>
+<li><strong>Usuário e senha para ambientes de desenvolvimento/testes, solicitar com gerente <em>fulano</em>  :</strong></li>
 </ul>
-<p><strong>Frameworks usados (com versões) :</strong></p>
+<blockquote>
+<p>Ramal:</p>
+</blockquote>
+<blockquote>
+<p>Email:</p>
+</blockquote>
 <ul>
-<li>Zend versão 2.5.3</li>
+<li><strong>Caso WS, como utilizar o serviço:</strong></li>
 </ul>
-<p><strong>Banco de dados utilizados:</strong></p>
+<blockquote>
+<p>WSSoap:</p>
+</blockquote>
 <ul>
-<li>My Sql versão 8.0</li>
+<li><em>link do wsdl aqui</em></li>
 </ul>
-<p><strong>Dependências :</strong></p>
+<blockquote>
+<p>WSRest:</p>
+</blockquote>
 <ul>
-<li>Exemplo</li>
-</ul>
-<p><strong>Comando para gerar o artefato:</strong></p>
-<ul>
-<li>Exemplo</li>
-</ul>
-<p><strong>Serviços utilizados pela aplicação:</strong></p>
-<ul>
-<li>Exemplo</li>
+<li><em>link do wsdl aqui</em></li>
+<li><em>Parâmetros necessários aqui</em></li>
 </ul>
 
     </div>
